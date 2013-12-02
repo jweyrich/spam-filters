@@ -89,3 +89,6 @@ john.bargh@yahoo.ca
 *@trklingerie.com
 *@trkmarketplace.com
 *@makroeletro.com
+*@phoras.com
+*@teachersnotebook.com
+*@*.teachersnotebook.com
