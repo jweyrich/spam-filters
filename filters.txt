@@ -92,3 +92,4 @@ john.bargh@yahoo.ca
 *@phoras.com
 *@teachersnotebook.com
 *@*.teachersnotebook.com
+*@mediacerta.com
