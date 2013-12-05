@@ -93,3 +93,4 @@ john.bargh@yahoo.ca
 *@teachersnotebook.com
 *@*.teachersnotebook.com
 *@mediacerta.com
+*@estounalista.com
