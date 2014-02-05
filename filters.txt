@@ -100,3 +100,5 @@ john.bargh@yahoo.ca
 *@shoppingbesttv.com.br
 *@brandspremium.com
 *@descontolovers.com
+*@ositedospes.com.br
+*@*.ositedospes.com.br
