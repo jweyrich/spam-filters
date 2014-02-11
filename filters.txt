@@ -102,3 +102,4 @@ john.bargh@yahoo.ca
 *@descontolovers.com
 *@ositedospes.com.br
 *@*.ositedospes.com.br
+*@livehoje.com.br
