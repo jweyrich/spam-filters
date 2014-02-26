@@ -106,3 +106,5 @@ john.bargh@yahoo.ca
 *@holandir.com
 *@livemm7.com
 *@descontolovers.com
+*@celulardigital.com.br
+*@*.celulardigital.com.br
