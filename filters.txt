@@ -108,3 +108,4 @@ john.bargh@yahoo.ca
 *@descontolovers.com
 *@celulardigital.com.br
 *@*.celulardigital.com.br
+*@kinfobr.com
