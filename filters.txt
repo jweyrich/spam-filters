@@ -118,4 +118,4 @@ john.bargh@yahoo.ca
 *@tablet.com.br
 *@*.tablet.com.br
 *@guarujavirtual.com.br
-
+*@ceotreinamentosceo.com.br
